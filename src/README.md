@@ -5,7 +5,7 @@ icon: home
 title: Blog Home
 heroImage: /logo.svg
 heroText: The name of your blog
-tagline: You can put your slogan here
+tagline: Welcome to The Sandbox, a place where creativity meets expression. Here, you'll discover my diverse passions and projects. Dive into captivating stories and thought-provoking musings. This digital haven is where imagination thrives. Join me on a journey through art, technology, and the human experience. Explore insights, embark on adventures, and uncover boundless possibilities within this sandbox of ideas. Let's build castles of inspiration and let creativity run free together! -Castle Builder
 heroFullScreen: true
 projects:
   - icon: project
