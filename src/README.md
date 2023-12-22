@@ -5,7 +5,7 @@ icon: home
 title: Blog Home
 heroImage: /logo.svg
 heroText: The name of your blog
-tagline: "Where Creativity Thrives, Together We Build Castles"
+tagline: "Welcome to Mr.Hope's Website"
 heroFullScreen: true
 projects:
   - icon: project
