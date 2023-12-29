@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: Blog Home
-heroImage: /mylogo1.jpg
+heroImage: /mylogo2.jpg
 heroText: The name of your blog
 tagline: "Welcome to Mr.Hope's Website"
 heroFullScreen: true
@@ -40,9 +40,3 @@ projects:
 
 footer: customize your footer text
 ---
-
-This is a blog home page demo.
-
-To use this layout, you should set both `layout: BlogHome` and `home: true` in the page front matter.
-
-For related configuration docs, please see [blog homepage](https://theme-hope.vuejs.press/guide/blog/home/).
