@@ -4,7 +4,7 @@ export default navbar([
   "/",
   {
     text: "About",
-    icon: "",
+    icon: "about",
     children: [
       {text: "子菜单1", icon: "", link: "*"}, 
       {text: "子菜单2", icon: "", link: "*"}, 
@@ -15,7 +15,7 @@ export default navbar([
   },
   {
     text: "Projects",
-    icon: "",
+    icon: "projects1",
     children: [
       {text: "子菜单1", icon: "", link: "*"}, 
       {text: "子菜单2", icon: "", link: "*"}, 
@@ -26,7 +26,7 @@ export default navbar([
   },
   {
     text: "Articles",
-    icon: "",
+    icon: "articles",
     children: [
       {text: "子菜单1", icon: "", link: "*"}, 
       {text: "子菜单2", icon: "", link: "*"}, 
