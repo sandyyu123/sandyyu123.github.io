@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: Blog Home
-heroImage: /logo.svg
+heroImage: /mylogo1.jpg
 heroText: The name of your blog
 tagline: "Welcome to Mr.Hope's Website"
 heroFullScreen: true
