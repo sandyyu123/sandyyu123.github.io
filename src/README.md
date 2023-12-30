@@ -2,7 +2,7 @@
 home: true
 layout: BlogHome
 icon: home
-title: Blog Home
+title: Home
 heroImage: /mylogo2.jpg
 heroText: The Sandbox
 tagline: "Welcome to Mr.Hope's Website"
