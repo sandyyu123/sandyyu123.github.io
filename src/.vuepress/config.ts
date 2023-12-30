@@ -5,8 +5,8 @@ export default defineUserConfig({
   base: "/",
 
   lang: "en-US",
-  title: "Mr.Hope's Personal Website",
-  description: "Welcome to my website, I'm Mr. Hope. Here, you'll find my notes and blogs on various topics. I'm into coding, swimming, and hitting the beach. Explore with me as I share insights on coding and bits of my beachside adventures. Hope you find something cool here!",
+  title: "Sandy's Personal Website",
+  description: "Welcome to my website, I'm Sandy. Here, you'll find my notes and blogs on various topics. I'm into coding, swimming, and hitting the beach. Explore with me as I share insights on coding and bits of my beachside adventures. Hope you find something cool here!",
 
   theme,
   head: [

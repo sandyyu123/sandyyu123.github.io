@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: Blog Home
 heroImage: /mylogo2.jpg
-heroText: The name of your blog
+heroText: The Sandbox
 tagline: "Welcome to Mr.Hope's Website"
 heroFullScreen: true
 projects:
