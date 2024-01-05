@@ -5,6 +5,7 @@ icon: home
 title: Home
 heroImage: /mylogo2.jpg
 heroText: The Sandbox
+bgImage: /milkywaybg.jpg
 tagline: "Welcome to Sandy's Website"
 heroFullScreen: true
 projects:
