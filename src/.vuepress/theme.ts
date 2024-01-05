@@ -15,7 +15,7 @@ export default hopeTheme({
 
   iconPrefix: "iconfont icon-",
   iconAssets: [
-    "//at.alicdn.com/t/c/font_4393896_ejc0lclafkv.css",
+    "//at.alicdn.com/t/c/font_4393896_9193v3jiwta.css",
   ],
 
   logo: "/mylogo1.jpg",
