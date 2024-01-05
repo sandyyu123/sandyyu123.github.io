@@ -26,6 +26,5 @@ onMounted(loadDependancies);
     background-size: cover;
     background-position: center center;
     background-color: #000000;  // 黑色
-    background-color: transparent; // 透明背景
 }
 </style>
