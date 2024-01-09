@@ -25,7 +25,7 @@ onMounted(loadDependancies);
     overflow: hidden;
     background-size: cover;
     background-position: center center;
-    background-color: #000000;  // 黑色
-    //background-color: transparent; // 透明背景
+    background-color: #7e6790;  // 浅紫色
+    background-color: transparent; // 透明背景
 }
 </style>
