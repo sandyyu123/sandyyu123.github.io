@@ -5,7 +5,7 @@ export default defineClientConfig({
     enhance({ app, router, siteData }) {},
     setup() {},
     layouts: {},
-    rootComponents: [Particles],
+    // rootComponents: [Particles],
 })
 
 // pnpm add -D less
