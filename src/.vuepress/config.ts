@@ -1,4 +1,5 @@
 import { defineUserConfig } from "vuepress";
+import path from "node:path";
 import theme from "./theme.js";
 
 export default defineUserConfig({
@@ -25,5 +26,11 @@ export default defineUserConfig({
     headers: {
       level: [2, 3, 4, 5, 6],
     }
-  }
+  },
+  alias: {
+    "@theme-hope/modules/blog/components/BlogHero": path.resolve(
+      __dirname,
+      "./components/BlogHero.vue",
+    ),
+  },
 });
